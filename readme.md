@@ -2,9 +2,7 @@
     
 ## Trading Card Price Predictor
 
-### TCPP is a project aiming to generate buy/sell suggestions based on a machine learning model.
-
-This model is trained on data accumulated from the webscraper included in the project.
+### TCPP is a project aiming to generate buy/sell suggestions based on a machine learning model trained on data accumulated from the included webscraper
 
 The project is based off of a 2014 Stanford University paper [1] which demonstrated strong results predicting the price of Magic: The Gathering cards.
 
